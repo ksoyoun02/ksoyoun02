@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:f9eaff,100:f6abff&height=300&section=header&text=Welcome!&fontSize=90&&fontColor=c35ade"/>
 
-:cherries: __Platforms & Languages :__cherries:</br>
+:cherries: __Platforms & Languages :__ :cherries:
+
+
 <span>
 <img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
@@ -8,8 +10,11 @@
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nodejs-FA04E?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-02569B?style=flat&logo=java&logoColor=white"/>
-</span>
-</br>
+</span></br></br>
+
+:cherries: __Tools__ :cherries:
+
+
 <span>
 <img src="https://img.shields.io/badge/Spring%20boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
