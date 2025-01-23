@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:f9eaff,100:b744e5&height=300&section=header&text=Welcome!&fontSize=90&&fontColor=843dc4"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:f9eaff,100:f6abff&height=300&section=header&text=Welcome!&fontSize=90&&fontColor=c35ade"/>
 
+:cherries: __Platforms & Languages :__cherries:</br>
 <span>
 <img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
