@@ -14,6 +14,8 @@
 <img src="https://img.shields.io/badge/Json-000000?style=flat&logo=json&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nodejs-FA04E?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
+  
 </span></br></br>
 
 
